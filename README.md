@@ -1,3 +1,5 @@
+🎵 Turtle Music Player (FSM-Based)
+
 A fun, animated Music Player simulation created using Python Turtle Graphics and a Finite State Machine (FSM). This player does not play real music, but instead visually represents music player states using animated GIFs and graphical buttons.
 
 📌 Features
